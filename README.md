@@ -206,9 +206,9 @@ I would like to thank **Cognifyz IT Solutions Pvt. Ltd.** for providing this opp
 
 # 📬 Connect With Me
 
-**GitHub:** https://github.com/<your-username>
+**GitHub:** https://github.com/Shikha18Shukla
 
-**LinkedIn:** https://www.linkedin.com/in/<your-linkedin>
+**LinkedIn:** https:https://www.linkedin.com/in/shikha-shukla-779133339/
 
 ---
 
