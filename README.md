@@ -178,9 +178,9 @@ or navigate to the desired task folder and execute its Python file.
 
 | Level | Status |
 |-------|--------|
-| Level 1 | ⏳ In Progress |
-| Level 2 | ⏳ In Progress |
-| Level 3 | ⏳ In Progress |
+| Level 1 | Completed |
+| Level 2 | Completed |
+| Level 3 | Completed |
 
 ---
 
